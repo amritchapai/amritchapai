@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning NOdeJS <br>💬 Ask me about GO, SQL, Node JS
+🌱 I’m currently learning Go Lang <br>💬 Ask me about GO, SQL, Node JS
 
 
 ## 🌐 Socials:
